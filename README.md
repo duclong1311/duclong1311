@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">I'm an application developer from HANOI</h3>
 
-[![MasterHead](https://liyasthomas.github.io/banner/)](https://github.com/duclong1311)
+[![MasterHead][(https://liyasthomas.github.io/banner/)](https://www.pinterest.com/pin/22025485671773533/)](https://github.com/duclong1311)
 
 
 <h3 align="left">Languages and Tools:</h3>
