@@ -24,7 +24,7 @@ Responsive web design
 
 JavaScript aglorithms and data structures
 
-You can take a look at: ![www.freecodecamp.org/duclong1311]
+You can take a look at: www.freecodecamp.org/duclong1311
 
 ---
 
