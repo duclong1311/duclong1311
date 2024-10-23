@@ -20,9 +20,9 @@
 
 ## 📈 My Certificates
 
-Responsive web design
+Responsive web design (freeCodeCamp)
 
-JavaScript aglorithms and data structures
+JavaScript aglorithms and data structures (freeCodeCamp)
 
 You can take a look at: www.freecodecamp.org/duclong1311
 
