@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Graduation** Graduated with a Bachelor's degree in Information Systems.  
+- 💻 **Graduation:** Graduated with a Bachelor's degree in Information Systems.  
 - 🚀 **Strengths:** Front-end development with React.js. 
 
 - 🔧 **Proficiency in:**  
@@ -20,8 +20,9 @@
 
 ## 📈 My Certificates
 
-![Responsive web design](https://www.freecodecamp.org/certification/fccf05502df-6faa-4999-a732-af83815ab029/responsive-web-design)  
-![JavaScript aglorithms and data structures](https://www.freecodecamp.org/certification/fccf05502df-6faa-4999-a732-af83815ab029/javascript-algorithms-and-data-structures-v8)
+![Responsive web design] 
+![JavaScript aglorithms and data structures]
+You can take a look at: ![ttps://www.freecodecamp.org/duclong1311]
 
 ---
 
