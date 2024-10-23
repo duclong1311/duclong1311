@@ -20,11 +20,11 @@
 
 ## 📈 My Certificates
 
-![Responsive web design] 
+Responsive web design
 
-![JavaScript aglorithms and data structures]
+JavaScript aglorithms and data structures
 
-You can take a look at: ![ttps://www.freecodecamp.org/duclong1311]
+You can take a look at: ![www.freecodecamp.org/duclong1311]
 
 ---
 
