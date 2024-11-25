@@ -20,9 +20,11 @@
 
 ## 📈 My Certificates
 
-Responsive web design (freeCodeCamp)
-
-JavaScript aglorithms and data structures (freeCodeCamp)
++ Responsive web design (freeCodeCamp)
++ JavaScript aglorithms and data structures (freeCodeCamp)
++ Scrum Essence (CodeGym Vietnam)
++ Learn how to learn (CodeGym)
++ Do everything with KanBan 2.0 (CodeGym)
 
 You can take a look at: www.freecodecamp.org/duclong1311
 
