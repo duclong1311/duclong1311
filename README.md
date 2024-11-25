@@ -26,7 +26,7 @@
 + Learn how to learn (CodeGym)
 + Do everything with KanBan 2.0 (CodeGym)
 
-You can take a look at <a href="www.freecodecamp.org/duclong1311">freeCodeCamp/duclong1311</a> and <a href="https://drive.google.com/drive/folders/1Dy5tfGxSTWDtixtukTeeU0BYf1tsAUgi?usp=sharing">CodeGym Certificates</a>
+You can take a look at <a href="www.freecodecamp.org/duclong1311">My freeCodeCamp profile</a> and <a href="https://drive.google.com/drive/folders/1Dy5tfGxSTWDtixtukTeeU0BYf1tsAUgi?usp=sharing">CodeGym Certificates</a>
 
 ---
 
