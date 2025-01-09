@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Long!
 
 **🌍 Location:** Ha Noi, Viet Nam  
-**🌱 Want to learn in the future:** React Native | Angular | Vue.js | Node.Js | Cloud and DevOps
+**🌱 Aspiring to Learn:** React Native | Angular | Vue.js | Node.Js | Cloud and DevOps
 
 ---
 
@@ -18,19 +18,7 @@
   
 ---
 
-## 📈 My Certificates
-
-+ Responsive web design (freeCodeCamp)
-+ JavaScript aglorithms and data structures (freeCodeCamp)
-+ Scrum Essence (CodeGym Vietnam)
-+ Learn how to learn (CodeGym)
-+ Do everything with KanBan 2.0 (CodeGym)
-
-You can take a look at <a href="https://www.freecodecamp.org/duclong1311">My freeCodeCamp profile</a> and <a href="https://drive.google.com/drive/folders/1Dy5tfGxSTWDtixtukTeeU0BYf1tsAUgi?usp=sharing">CodeGym Certificates</a>
-
----
-
-## 📫 Get In Touch
+## 📫 Let's Connect
 
 - **GitHub:** [https://github.com/duclong1311](https://github.com/duclong1311)  
 - **Email:** [duclong1311.work@gmail.com](duclong1311.work@gmail.com)
