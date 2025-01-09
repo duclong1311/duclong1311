@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Long!
 
 **🌍 Location:** Ha Noi, Viet Nam  
-**🌱 Aspiring to Learn:** React Native | Angular | Vue.js | Node.Js | Cloud and DevOps
+**🌱 Aspiring to Learn:** Node.js
 
 ---
 
